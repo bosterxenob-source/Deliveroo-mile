@@ -1,9 +1,11 @@
 {
-  "name": "deliveroo-miles",
+  "name": "deliveroo-mile",
   "version": "1.0.0",
+  "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build"
+    "build": "vite build",
+    "preview": "vite preview"
   },
   "dependencies": {
     "react": "^18.2.0",
